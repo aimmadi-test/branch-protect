@@ -39,6 +39,7 @@
 - Save the Webhook
 - Now create a sample repo under github org.
 - Branch protection on master branch and a github issues with @mention will be created automatically.
+![screenrecording](https://user-images.githubusercontent.com/95721835/146454434-22b226c8-0148-4e4d-9b33-fd149c19034e.gif)
 
 ## Reference:
 Video -https://www.youtube.com/watch?v=qqinLLccL2E </br>
