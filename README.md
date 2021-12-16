@@ -40,6 +40,6 @@
 - Now create a sample repo under github org.
 - Branch protection on master branch and a github issues with @mention will be created automatically.
 
-Reference:
-Video -https://www.youtube.com/watch?v=qqinLLccL2E
-Code -  https://github.com/zkoppert/Auto-branch-protect
+## Reference:
+Video -https://www.youtube.com/watch?v=qqinLLccL2E </br>
+Code -  https://github.com/zkoppert/Auto-branch-protect </br>
