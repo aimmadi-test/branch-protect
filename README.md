@@ -12,7 +12,7 @@
 - Clone the repo. [https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository]
 - Generate personal access token with repo read, write and API access. [https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token]
 - Set GH_TOKEN as an environment variable with a value that corresponds to a GitHub Token (ie. `export GH_TOKEN=*******`)
-- Set the user value in app.py
+- Set GH_USERNAME as an environment variable with a value that corresponds to a github username. (ie. `export GH_USERNAME=*******`)
 - Install the following:
   - [Python 3](https://www.python.org/downloads/)
     - `pip install -r requirements.txt`
