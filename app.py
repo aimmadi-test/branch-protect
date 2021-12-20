@@ -12,7 +12,7 @@ app = Flask(__name__)
 def webhook():
     # Store incoming json data from webhook
     payload = request.get_json()
-    user = "aimmadi8"
+    user = os.environ["GH_USERNAME"]
     cred = os.environ["GH_TOKEN"]
     if payload is None:
         print("POST was not formatted in JSON")
